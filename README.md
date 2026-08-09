@@ -5,9 +5,9 @@
 
 <div align="center"> 
   
-<h3>bᵤₜ... ₜₕₑ ₘₒₘₑₙₜ yₒᵤ ᵣₑₐcₕₑd yₒᵤᵣ ₕₐₙd ₒᵤₜ ₜₒ ₘₑ...
+${\textsf{\color{#fffff} but... the moment you reached your hand out to me... }}$
 
-wₐₛ wₕₑₙ ₒₙₑ Fₒᵣ ₐₗₗ wₐₛ ₜᵣᵤₗy bₒᵣₙ.
+${\textsf{\color{#FFfff} was when One For All was truly born. }}$
 
 
 
