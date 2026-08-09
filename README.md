@@ -3,12 +3,13 @@
 
 <div align="center"><img width="424" height="57" alt="image" src="https://github.com/user-attachments/assets/6905c20a-06d3-4ce9-a18c-aca2a31981af" />
 
-
 <div align="center"> 
   
-**bᵤₜ... ₜₕₑ ₘₒₘₑₙₜ yₒᵤ ᵣₑₐcₕₑd yₒᵤᵣ ₕₐₙd ₒᵤₜ ₜₒ ₘₑ...** 
+<h3>bᵤₜ... ₜₕₑ ₘₒₘₑₙₜ yₒᵤ ᵣₑₐcₕₑd yₒᵤᵣ ₕₐₙd ₒᵤₜ ₜₒ ₘₑ...
 
-**wₐₛ wₕₑₙ ₒₙₑ Fₒᵣ ₐₗₗ wₐₛ ₜᵣᵤₗy bₒᵣₙ.**
+wₐₛ wₕₑₙ ₒₙₑ Fₒᵣ ₐₗₗ wₐₛ ₜᵣᵤₗy bₒᵣₙ.
+
+
 
 <div align="center"><img width="424" height="57" alt="image" src="https://github.com/user-attachments/assets/4a6f1379-2f4f-45d7-8cea-a73304aece24" />
 
